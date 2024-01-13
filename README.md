@@ -1,3 +1,9 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmYwZmNxanU4cXJsam1wNjJtaTlqMnp6MzJlemY1MmRoY2dvc2g4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f6hnhHkks8bk4jwjh3/giphy.gif" width="200"/>
+</div>
+
+
+
 # 💫 About Me:
 🌱 I’m currently learning HTML/CSS/JS specialized on backend side<br>👯 I’m looking to collaborate on any JS project<br>❤️ Cats lover<br>📫 How to reach me : florian.peri@gmail.com<br>
 
